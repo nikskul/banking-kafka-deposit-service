@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.nikskul</groupId>
-    <artifactId>kafka-banking</artifactId>
+    <artifactId>banking-kafka-deposit-service</artifactId>
     <version>0.0.1</version>
-    <name>kafka-banking-deposit-service</name>
+    <name>Deposit service</name>
     <description>Microservice for client deposit operation</description>
     <properties>
         <java.version>18</java.version>
